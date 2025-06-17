@@ -122,6 +122,9 @@
   box-shadow: 0 6px 20px rgba(100, 255, 218, 0.3);
  }
 
+ strong {
+    color: #CCD6F6;
+ }
  .exp-card h2 {
   text-align: center;
   font-size: 32px;
@@ -139,7 +142,7 @@
   font-size: 18px;
   list-style-type: disc;
   padding-left: 20px;
-  color: #CCD6F6;
+  color: #8892B0;
  }
 
  .exp-card li {
